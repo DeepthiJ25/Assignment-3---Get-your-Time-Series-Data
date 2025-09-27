@@ -1,0 +1,144 @@
+quarter_ending,region,currency,revenues_USD_thousands,paid_net_additions,paid_memberships_ends,average_paying_memberships,average_revenue_per_membership,YoY_change_percentage
+31-03-2017,US & Canada,U.S. Dollars,1586167,1665,54575,53743,9.84,16
+30-06-2017,US & Canada,U.S. Dollars,1624397,1042,55617,55096,9.83,14
+30-09-2017,US & Canada,U.S. Dollars,1674308,1162,59779,56198,9.93,8
+31-12-2017,US & Canada,U.S. Dollars,1775987,1643,58422,57601,10.28,6
+31-03-2018,US & Canada,U.S. Dollars,1976157,2487,60909,59666,11.04,12
+30-06-2018,US & Canada,U.S. Dollars,2049546,961,61870,61390,11.13,13
+30-09-2018,US & Canada,U.S. Dollars,2094850,1140,63010,62440,11.18,13
+31-12-2018,US & Canada,U.S. Dollars,2160979,1747,64757,63884,11.28,10
+31-03-2019,US & Canada,U.S. Dollars,2256851,1876,66633,65695,11.45,4
+30-06-2019,US & Canada,U.S. Dollars,2501199,-132,66501,66567,12.52,12
+30-09-2019,US & Canada,U.S. Dollars,2621250,613,67114,66808,13.08,17
+31-12-2019,US & Canada,U.S. Dollars,2671908,548,67662,67388,13.22,17
+31-03-2020,US & Canada,U.S. Dollars,2702776,2307,69969,68816,13.09,14
+30-06-2020,US & Canada,U.S. Dollars,2839670,2935,72904,71437,13.25,6
+30-09-2020,US & Canada,U.S. Dollars,2933445,177,73081,72993,13.4,2
+31-12-2020,US & Canada,U.S. Dollars,2979505,855,73936,73509,13.51,2
+31-03-2021,US & Canada,U.S. Dollars,3170972,448,74384,74160,14.25,9
+30-06-2021,US & Canada,U.S. Dollars,3234643,-433,73951,74168,14.54,10
+30-09-2021,US & Canada,U.S. Dollars,3257697,73,74024,73988,14.68,10
+31-12-2021,US & Canada,U.S. Dollars,3308788,1191,75215,74620,14.78,9
+31-03-2022,US & Canada,U.S. Dollars,3350424,-636,74579,74897,14.91,5
+30-06-2022,US & Canada,U.S. Dollars,3537863,-1296,73283,73931,15.95,10
+30-09-2022,US & Canada,U.S. Dollars,3601565,104,73387,73335,16.37,12
+31-12-2022,US & Canada,U.S. Dollars,3594791,909,74296,73842,16.23,10
+31-03-2023,US & Canada,U.S. Dollars,3608645,105,74398,74347,16.18,9
+30-06-2023,US & Canada,U.S. Dollars,3599448,1173,75571,74985,16,0
+30-09-2023,US & Canada,U.S. Dollars,3735133,1750,77321,76446,16.29,0
+31-12-2023,US & Canada,U.S. Dollars,3930557,2807,80128,78725,16.64,3
+31-03-2024,US & Canada,U.S. Dollars,4224315,2530,82658,81393,17.3,7
+30-06-2024,US & Canada,U.S. Dollars,4295560,1451,84109,83384,17.17,7
+30-09-2024,US & Canada,U.S. Dollars,4322476,694,84803,84456,17.06,5
+31-12-2024,US & Canada,U.S. Dollars,4517018,4822,89625,87214,17.26,4
+31-03-2017,"Europe, Middle East, Africa",U.S. Dollars,482282,1868,19699,18765,8.57,3
+30-06-2017,"Europe, Middle East, Africa",U.S. Dollars,533098,1453,21152,20426,8.7,1
+30-09-2017,"Europe, Middle East, Africa",U.S. Dollars,614707,1983,23135,22144,9.25,6
+31-12-2017,"Europe, Middle East, Africa",U.S. Dollars,732726,2869,26004,24570,9.94,15
+31-03-2018,"Europe, Middle East, Africa",U.S. Dollars,886649,3335,29339,27672,10.58,25
+30-06-2018,"Europe, Middle East, Africa",U.S. Dollars,975497,1978,31317,30328,10.72,23
+30-09-2018,"Europe, Middle East, Africa",U.S. Dollars,1004749,2519,33836,32577,10.28,11
+31-12-2018,"Europe, Middle East, Africa",U.S. Dollars,1096812,3982,37818,35827,10.2,3
+31-03-2019,"Europe, Middle East, Africa",U.S. Dollars,1233379,4724,42542,40180,10.23,-4
+30-06-2019,"Europe, Middle East, Africa",U.S. Dollars,1319087,1687,44229,43386,10.13,-6
+30-09-2019,"Europe, Middle East, Africa",U.S. Dollars,1428040,3126,47355,45792,10.4,1
+31-12-2019,"Europe, Middle East, Africa",U.S. Dollars,1562561,4423,51778,49567,10.51,3
+31-03-2020,"Europe, Middle East, Africa",U.S. Dollars,1723474,6956,58734,55256,10.4,2
+30-06-2020,"Europe, Middle East, Africa",U.S. Dollars,1892537,2749,61483,60109,10.5,4
+30-09-2020,"Europe, Middle East, Africa",U.S. Dollars,2019083,759,62242,61863,10.88,5
+31-12-2020,"Europe, Middle East, Africa",U.S. Dollars,2137158,4456,66698,64470,11.05,5
+31-03-2021,"Europe, Middle East, Africa",U.S. Dollars,2343674,1810,68508,67603,11.56,11
+30-06-2021,"Europe, Middle East, Africa",U.S. Dollars,2400480,188,68696,68602,11.66,11
+30-09-2021,"Europe, Middle East, Africa",U.S. Dollars,2432239,1804,70500,69598,11.65,7
+31-12-2021,"Europe, Middle East, Africa",U.S. Dollars,2523426,3536,74036,72268,11.64,5
+31-03-2022,"Europe, Middle East, Africa",U.S. Dollars,2561831,-303,73733,73885,11.56,0
+30-06-2022,"Europe, Middle East, Africa",U.S. Dollars,2457235,-767,72966,73350,11.17,-4
+30-09-2022,"Europe, Middle East, Africa",U.S. Dollars,2375814,569,73534,73250,10.81,-7
+31-12-2022,"Europe, Middle East, Africa",U.S. Dollars,2350135,3195,76729,75132,10.43,-10
+31-03-2023,"Europe, Middle East, Africa",U.S. Dollars,2517641,644,77373,77051,10.89,-6
+30-06-2023,"Europe, Middle East, Africa",U.S. Dollars,2562170,2434,79807,78590,10.87,-3
+30-09-2023,"Europe, Middle East, Africa",U.S. Dollars,2693146,3953,83760,81784,10.98,2
+31-12-2023,"Europe, Middle East, Africa",U.S. Dollars,2783530,5053,88813,86287,10.75,3
+31-03-2024,"Europe, Middle East, Africa",U.S. Dollars,2958193,2916,91729,90271,10.91,0
+30-06-2024,"Europe, Middle East, Africa",U.S. Dollars,3007772,2235,93964,92847,10.8,1
+30-09-2024,"Europe, Middle East, Africa",U.S. Dollars,3133466,2167,96131,95047,10.99,0
+31-12-2024,"Europe, Middle East, Africa",U.S. Dollars,3287604,5002,101133,98632,11.11,3
+31-03-2017,Latin America,U.S. Dollars,331453,1217,15425,14817,7.46,21
+30-06-2017,Latin America,U.S. Dollars,381459,1588,17013,16219,7.84,20
+30-09-2017,Latin America,U.S. Dollars,434637,1254,18267,17640,8.21,14
+31-12-2017,Latin America,U.S. Dollars,495067,1450,19717,18992,8.69,17
+31-03-2018,Latin America,U.S. Dollars,540182,1543,21260,20489,8.79,18
+30-06-2018,Latin America,U.S. Dollars,568071,1535,22795,22028,8.6,10
+30-09-2018,Latin America,U.S. Dollars,562307,1320,24115,23455,7.99,-3
+31-12-2018,Latin America,U.S. Dollars,567137,1962,26077,25096,7.53,-13
+31-03-2019,Latin America,U.S. Dollars,630472,1470,27547,26812,7.84,-11
+30-06-2019,Latin America,U.S. Dollars,677136,343,27890,27719,8.14,-5
+30-09-2019,Latin America,U.S. Dollars,741434,1490,29380,28635,8.63,8
+31-12-2019,Latin America,U.S. Dollars,746392,2037,31417,30399,8.18,9
+31-03-2020,Latin America,U.S. Dollars,793453,2901,34318,32868,8.05,3
+30-06-2020,Latin America,U.S. Dollars,785368,1750,36068,35193,7.44,-9
+30-09-2020,Latin America,U.S. Dollars,789384,256,36324,36196,7.27,-16
+31-12-2020,Latin America,U.S. Dollars,788522,1213,37537,36931,7.12,-13
+31-03-2021,Latin America,U.S. Dollars,836647,357,37894,37716,7.39,-8
+30-06-2021,Latin America,U.S. Dollars,860882,764,38658,38276,7.5,1
+30-09-2021,Latin America,U.S. Dollars,915297,330,38988,38823,7.86,8
+31-12-2021,Latin America,U.S. Dollars,964150,973,39961,39475,8.14,14
+31-03-2022,Latin America,U.S. Dollars,998948,-351,39610,39786,8.37,13
+30-06-2022,Latin America,U.S. Dollars,1030234,14,39624,39617,8.67,16
+30-09-2022,Latin America,U.S. Dollars,1023945,312,39936,39780,8.58,9
+31-12-2022,Latin America,U.S. Dollars,1016846,1763,41699,40818,5.3,2
+31-03-2023,Latin America,U.S. Dollars,1070192,-450,41249,41474,8.6,3
+30-06-2023,Latin America,U.S. Dollars,1077435,1217,42466,41858,8.58,-1
+30-09-2023,Latin America,U.S. Dollars,1142811,1179,43645,43056,8.85,3
+31-12-2023,Latin America,U.S. Dollars,1156023,2352,45997,44821,8.6,4
+31-03-2024,Latin America,U.S. Dollars,1165008,1723,47720,46859,8.29,-4
+30-06-2024,Latin America,U.S. Dollars,1204145,1530,49250,48485,8.28,-3
+30-09-2024,Latin America,U.S. Dollars,1240892,-68,49182,49216,8.4,-5
+31-12-2024,Latin America,U.S. Dollars,1229771,4145,53327,51255,8,-7
+31-03-2017,Asia-Pacific,U.S. Dollars,116339,523,4664,4403,8.81,9
+30-06-2017,Asia-Pacific,U.S. Dollars,131773,590,5254,4959,8.86,3
+30-09-2017,Asia-Pacific,U.S. Dollars,150993,588,5842,5548,9.07,3
+31-12-2017,Asia-Pacific,U.S. Dollars,176823,659,9501,6172,9.55,8
+31-03-2018,Asia-Pacific,U.S. Dollars,199117,893,7394,6948,9.55,8
+30-06-2018,Asia-Pacific,U.S. Dollars,221252,978,8372,7883,9.36,6
+30-09-2018,Asia-Pacific,U.S. Dollars,248691,1089,9461,8917,9.3,3
+31-12-2018,Asia-Pacific,U.S. Dollars,276756,1146,10607,10034,9.19,-4
+31-03-2019,Asia-Pacific,U.S. Dollars,319602,1534,12141,11374,9.37,-2
+30-06-2019,Asia-Pacific,U.S. Dollars,349494,801,12942,12542,9.29,-1
+30-09-2019,Asia-Pacific,U.S. Dollars,382304,1543,14485,13714,9.29,0
+31-12-2019,Asia-Pacific,U.S. Dollars,418121,1748,16233,15359,9.07,-1
+31-03-2020,Asia-Pacific,U.S. Dollars,483660,3602,19835,18034,8.94,-5
+30-06-2020,Asia-Pacific,U.S. Dollars,569140,2657,22492,21164,8.96,-4
+30-09-2020,Asia-Pacific,U.S. Dollars,634891,1012,23504,22998,9.2,-1
+31-12-2020,Asia-Pacific,U.S. Dollars,684609,1988,25492,24498,9.32,3
+31-03-2021,Asia-Pacific,U.S. Dollars,762414,1361,26853,26173,9.71,9
+30-06-2021,Asia-Pacific,U.S. Dollars,799480,1022,27875,27364,9.74,9
+30-09-2021,Asia-Pacific,U.S. Dollars,834002,2176,30051,28963,9.6,4
+31-12-2021,Asia-Pacific,U.S. Dollars,870705,2581,32632,31342,9.26,-1
+31-03-2022,Asia-Pacific,U.S. Dollars,916754,1087,33719,33176,9.21,-5
+30-06-2022,Asia-Pacific,U.S. Dollars,907719,1080,34799,34259,8.83,-9
+30-09-2022,Asia-Pacific,U.S. Dollars,889037,1429,36228,35514,8.34,-13
+31-12-2022,Asia-Pacific,U.S. Dollars,856711,1795,38023,37126,7.69,-17
+31-03-2023,Asia-Pacific,U.S. Dollars,933523,1455,39478,38751,8.03,-13
+30-06-2023,Asia-Pacific,U.S. Dollars,919273,1068,40546,40012,7.66,-13
+30-09-2023,Asia-Pacific,U.S. Dollars,948216,1881,42427,41487,7.62,-9
+31-12-2023,Asia-Pacific,U.S. Dollars,962715,2911,45338,43883,7.31,-5
+31-03-2024,Asia-Pacific,U.S. Dollars,1022924,2157,47495,46417,7.35,-8
+30-06-2024,Asia-Pacific,U.S. Dollars,1051833,2829,50324,48910,7.17,-6
+30-09-2024,Asia-Pacific,U.S. Dollars,1127869,2280,52604,51464,7.31,-4
+31-12-2024,Asia-Pacific,U.S. Dollars,1212120,4937,57541,55073,7.34,0
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Data Collection Method,,,,,,,,
+,,,,,,,,
+To analyze Netflix’s quarterly revenue and membership streaming trends and forecast future revenue.,,,,,,,,
+The quarterly for the years 2017 - 2024 was collected.,,,,,,,,
+" The data was collected from Netflix’s official website, which includes their financial releases for quarterly and annual earnings",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Why does this data set intrigue you?,,,,,,,,
+,,,,,,,,
+This data interests me because I love watching Netflix’s true crime documentary series and any docuseries they produce. ,,,,,,,,
+"Their business strategy and marketing approach always fascinate me because they demonstrate unique and out-of-the-box thinking, which I truly appreciate. ",,,,,,,,
+I wanted to see how much their revenue changes with big series or movie they release each month.,,,,,,,,

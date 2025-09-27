@@ -1,5 +1,7 @@
-# Netflix Streaming Revenue and Membership by Region Data Set
+# Assignment #3 - Get your Time Series Data
 This contains csv file, html and .md of quarterly netflix's revenue
+
+
 # Netflix Streaming Revenue and Membership by Region Data Set
 
 ## Data Dictionery
